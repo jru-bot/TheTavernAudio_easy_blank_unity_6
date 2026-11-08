@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{a5f1cb79-1db7-45e9-ac0e-1085a9bb8585}">
+		<property name="assetPath">
+			<value>myszy/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8f8ad1c6-0e78-4aa6-81ca-3acc6fc36d92}</destination>
+		</relationship>
+	</object>
+</objects>

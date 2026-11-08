@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{10b86f40-0251-4a09-aa8f-ceaab6718a62}">
+		<property name="assetPath">
+			<value>lądowanie_kamień/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8f8ad1c6-0e78-4aa6-81ca-3acc6fc36d92}</destination>
+		</relationship>
+	</object>
+</objects>

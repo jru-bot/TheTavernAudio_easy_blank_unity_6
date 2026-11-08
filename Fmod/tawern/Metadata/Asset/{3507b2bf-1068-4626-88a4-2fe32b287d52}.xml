@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{3507b2bf-1068-4626-88a4-2fe32b287d52}">
+		<property name="assetPath">
+			<value>chodzenie/chodzenie po drewnie/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8f8ad1c6-0e78-4aa6-81ca-3acc6fc36d92}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{ab2f5ad2-ffd7-470d-a6d5-047c8a7f71c9}">
+		<property name="assetPath">
+			<value>music/music_tawern.flac</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>157.86485416666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8f8ad1c6-0e78-4aa6-81ca-3acc6fc36d92}</destination>
+		</relationship>
+	</object>
+</objects>
